@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLot.Vistas.AdminInicioSesion" Background="LightGray"
+               xmlns:local ="clr-namespace:AppLot">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout>
+            <StackLayout Padding="0" 
+                         Margin="0" 
+                         HorizontalOptions="FillAndExpand">
+
+                <Frame HeightRequest="200" 
+                       BackgroundColor="DarkGray" 
+                       Padding="5" Margin="0">
+
+                    <Image Source="https://www.lototres.org/img/IMG-20180608-WA0033%20(1).png" 
+                           Aspect="AspectFill" Margin="0"/>
+
+                </Frame>
+
+            </StackLayout>
+            
+            <Frame  BackgroundColor="White" HeightRequest="520" 
+                    HasShadow="True" Padding="0" Margin="30,-20,30,20">
+                
+                <StackLayout>
+
+                    
+                    <StackLayout Margin="10">
+                <Label Text="Iniciar Sesión Administrador" TextColor="Black" 
+                       FontSize="30" HorizontalTextAlignment="Center"  
+                       HorizontalOptions="CenterAndExpand" FontAttributes="Bold" 
+                       Margin="0,20,0,20"/>
+                
+            </StackLayout>
+
+                    <StackLayout Padding="0" Margin="15,10">
+
+                            <Frame BackgroundColor="Transparent" 
+                               BorderColor="DarkGray" 
+                               Padding="0" 
+                               HorizontalOptions="FillAndExpand" 
+                               CornerRadius="30">
+
+                                <StackLayout Orientation="Horizontal">
+
+                                    <Frame BackgroundColor="#fff" 
+                                       HeightRequest="40" 
+                                       WidthRequest="40" 
+                                       CornerRadius="30" 
+                                       Padding="0" Margin="5">
+
+
+                                        <Image Source="usuario.png" Aspect="AspectFill" Margin="0"/>
+
+                                    </Frame>
+
+
+                                    <Entry Placeholder="Correo Electronico" 
+                                       x:Name="correoElectronico" 
+                                       Keyboard="Email" PlaceholderColor="DarkGray"
+                                       TextColor="Black" FontAttributes="None" 
+                                       HorizontalOptions="FillAndExpand" Margin="0,0,20,0"
+                                        />
+                                </StackLayout>
+                            </Frame>
+
+                            <Frame BackgroundColor="Transparent" BorderColor="DarkGray" Margin="0,15,0,0" Padding="0" HorizontalOptions="FillAndExpand" CornerRadius="30">
+                    
+                                <StackLayout Orientation="Horizontal">
+                        
+                                    <Frame BackgroundColor="SkyBlue" HeightRequest="40" WidthRequest="40" CornerRadius="30" Padding="0" Margin="5">
+                           
+                                        <Image Source="https://images.all-free-download.com/images/graphicthumb/lock_icon_6813906.jpg" Aspect="AspectFill" Margin="0"/>
+                        
+                                    </Frame>
+
+                        
+                                    <Entry Placeholder="Contraseña" x:Name="contrasena"
+                                           
+                                           PlaceholderColor="DarkGray"
+                                           TextColor="Black" FontAttributes="None" 
+                                           HorizontalOptions="FillAndExpand" Margin="0,0,20,0"
+                                             IsPassword="{Binding Source={x:Reference ShowPasswordActualTrigger}, Path=HidePassword}"/>
+
+                                    <ImageButton VerticalOptions="Center"
+                      Margin="0,0,10,0"
+                     HeightRequest="20"
+                     HorizontalOptions="End"
+                     Source="ic_eye_hide">
+                                        <ImageButton.Triggers>
+                                            <EventTrigger Event="Clicked">
+                                                <local:ShowPasswordTriggerAction ShowIcon="ic_eye"
+                                                                    HideIcon="ic_eye_hide"
+                                                                    x:Name="ShowPasswordActualTrigger"/>
+                                            </EventTrigger>
+                                        </ImageButton.Triggers>
+                                    </ImageButton>
+
+
+                                </StackLayout>
+                
+                            </Frame>
+                        
+                        <StackLayout  Orientation="Horizontal">
+                            
+                            <CheckBox IsChecked="False" Color="Blue" />
+                            
+                            <Label Text="Recordar" TextColor="DarkGray" 
+                                   FontSize="Small" VerticalTextAlignment="Center"
+                                   HorizontalTextAlignment="Center" 
+                                    />
+
+                            <Button  Text="Has olvidado tu contraseña" TextColor="Gray" 
+                                     FontAttributes="Bold" x:Name="btnOlvi"
+                                            HorizontalOptions="EndAndExpand" 
+                                     FontSize="11" BackgroundColor="White" 
+                                     Padding="0" 
+                                    />
+                            
+                        </StackLayout>
+
+
+                        <StackLayout Margin="30">
+                            <Button x:Name="btnIniciarAdmin" Text="Iniciar Sesión" 
+                                    BackgroundColor="#109dfa" TextColor="White" 
+                                    CornerRadius="30" />
+                            
+                        </StackLayout>
+
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

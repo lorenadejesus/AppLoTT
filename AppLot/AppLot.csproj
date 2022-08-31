@@ -1,0 +1,120 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Tablas\FruitsViewModel - Copia.cs" />
+    <Compile Remove="Tablas\Registro.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Date" Version="1.0.7" />
+    <PackageReference Include="MySql.Command" Version="1.0.6" />
+    <PackageReference Include="MySql.Data" Version="8.0.30" />
+    <PackageReference Include="MySqlConnector" Version="2.1.11" />
+    <PackageReference Include="Plugin.MediaManager" Version="1.1.1" />
+    <PackageReference Include="System.Security.Cryptography.Cng" Version="5.0.0" />
+    <PackageReference Include="Xam.Plugin.Media" Version="5.0.1" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2515" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.3" />
+    <PackageReference Include="Xamarin.Forms.PancakeView" Version="2.3.0.759" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Vistas\Instructor.xaml.cs">
+      <DependentUpon>Instructor.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Vistas\InstructorAgendar.xaml.cs">
+      <DependentUpon>InstructorAgendar.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Vistas\InstructorCitas.xaml.cs">
+      <DependentUpon>InstructorCitas.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Vistas\InstructorInicioSesion.xaml.cs">
+      <DependentUpon>InstructorInicioSesion.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Vistas\AdminInicioSesion.xaml.cs">
+      <DependentUpon>AdminInicioSesion.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Vistas\Admin.xaml.cs">
+      <DependentUpon>Admin.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Vistas\InstructorPerfil.xaml.cs">
+      <DependentUpon>InstructorPerfil.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Vistas\AdminPerfil.xaml.cs">
+      <DependentUpon>AdminPerfil.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Vistas\UsuarioCitas.xaml.cs">
+      <DependentUpon>UsuarioCitas.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Vistas\UsuarioAgendar.xaml.cs">
+      <DependentUpon>UsuarioAgendar.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Vistas\InstructorConfig.xaml.cs">
+      <DependentUpon>InstructorConfig.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Vistas\UsuarioPerfil.xaml.cs">
+      <DependentUpon>UsuarioPerfil.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Vistas\UsuarioInicioSesion.xaml.cs">
+      <DependentUpon>UsuarioInicioSesion.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Vistas\AdminAgendar.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\AdminCitas.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\Admin.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\InstructorRegistro.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\MenuSesion.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\UsuarioAgendar.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\AppPrincipal.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\UsuarioCitas.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\AdminInicioSesion.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\Informacion.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\UsuarioConfig.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\Olv_contra.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\UsuarioPerfil.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\UsuarioInicioSesion.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\Registro.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

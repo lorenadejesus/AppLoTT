@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local = "clr-namespace:AppLot.Tablas"
+             xmlns:vm = "clr-namespace:AppLot.Datos"
+             
+             xmlns:PanCake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="AppLot.Vistas.Informacion" BackgroundColor="White">
+    
+    <ContentPage.BindingContext>
+        <local:InfoViews />
+    </ContentPage.BindingContext>
+
+    
+    
+    <ContentPage.Content>
+        
+
+        <!-- 1.Cuerpo de la informacion-->
+        <Grid >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="0"/>
+            </Grid.RowDefinitions>
+
+            
+
+    
+            <ScrollView >
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        
+                    </Grid.RowDefinitions>
+
+                    <!-- 2. Header Parte de arriba-->
+                    <Label Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Text="Nosotros" FontSize="30" FontAttributes="Bold" TextColor="Black"  Padding="20,0"/>
+                    <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" Text="Fundacion Loto Tres A.C." FontSize="15" TextColor="Black" Padding="20,0"/>
+                    
+
+                    <!-- 3. tarjetas con las informacion-->
+                    <CollectionView Grid.Column="0"
+                                HorizontalScrollBarVisibility="Never"
+                                Grid.Row="2" Grid.ColumnSpan="2"
+                                Margin="15,0,15,0"
+                                ItemsSource="{Binding informacionDato}"
+                                VerticalOptions="StartAndExpand"
+                                ItemsLayout="HorizontalList" 
+                                HeightRequest="500">
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <StackLayout Margin="8,0">
+                                    <Frame HasShadow="False" CornerRadius="20" Margin="0" BackgroundColor="{Binding BGColor}" WidthRequest="200"
+                                           VerticalOptions="FillAndExpand" HorizontalOptions="Center">
+                                        <Grid HorizontalOptions="Center">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="*"/>
+                                                <RowDefinition Height="Auto"/>
+                                            </Grid.RowDefinitions>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="Auto"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Image Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"  HorizontalOptions="Center" Source="{Binding Picture}"/>
+                                            <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" Text="{Binding Title}" FontAttributes="Bold" TextColor="#48423c" FontSize="21" Padding="8"/>
+                                            <Label Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" Text="{Binding Description}" FontAttributes="None" TextColor="#48423c" FontSize="13"/>
+                                            
+                                        </Grid>
+                                    </Frame>
+                                </StackLayout>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+                    <!--contacto-->
+
+                    <Label Grid.Column="0" Grid.Row="3 " Grid.ColumnSpan="2" Text="Contacto" FontSize="20" TextColor="Black" FontAttributes="Bold" Padding="20,0"></Label>
+                    <Label  Grid.Column="0" Grid.Row="4 " Grid.ColumnSpan="2" Text="Para conocer formas de apoyar, donar, inscribirte en alguna de nuestras actividades te brindamos las maneras de contacto." FontSize="15" TextColor="Black"   Padding="20,0"></Label>
+                    <Label  Grid.Column="0" Grid.Row="5 "  Grid.ColumnSpan="2" Text="comunicate al teléfono celular : (55) 23089192 o al número local: (55) 5938 0797" FontSize="15" TextColor="Black"   Padding="20,0"></Label>
+                    <Label  Grid.Column="0" Grid.Row="6 " Grid.ColumnSpan="2" Text="o al correo electrónico: lototres@gmail.com" FontSize="15" TextColor="Black"   Padding="20,0"></Label>
+
+                </Grid>
+            </ScrollView>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

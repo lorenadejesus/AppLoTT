@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local = "clr-namespace:AppLot.Tablas"
+             x:Class="AppLot.Vistas.AdminCitas"
+             BackgroundColor="#f3f4f">
+
+    <ContentPage.BindingContext>
+        <local:contolador />
+    </ContentPage.BindingContext>
+
+
+    <ContentPage.Content>
+
+
+        <Grid Padding="25,0,0,0" RowDefinitions="Auto, Auto, Auto, *" ColumnDefinitions="Auto, *, Auto">
+            <!--Corner image-->
+            <Image Grid.Row="0" Grid.Column="2" Source="ar" HeightRequest="110"/>
+            <!--Schedule timeline-->
+            <Image Grid.Row="1" Grid.Column="0" Source="Calendar" HeightRequest="50" Margin="0,-40,0,0" VerticalOptions="Start"/>
+            <BoxView Grid.Row="2" Grid.Column="0"  VerticalOptions="Start" WidthRequest="4" Color="CadetBlue" HeightRequest="70" Margin="25,-50,25,10"/>
+            <!-- Date description-->
+            <Label Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Text="CITAS FUNDACIÓN LOTO TRES"  Margin="0,-30,0,0" TextColor="Black" FontAttributes="Bold" FontSize="25" Padding="20,30,0,0"/>
+
+
+
+
+
+
+            <!-- Shedule list structure-->
+            <CollectionView ItemsSource="{Binding Cont}"
+                                 Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3"
+                                 VerticalScrollBarVisibility="Never"
+                                 VerticalOptions="Start"
+                          
+                        >
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid RowDefinitions="Auto, Auto" ColumnDefinitions="Auto, *" >
+                            <!-- HOR de la cita-->
+                            <Label Grid.Row="0" Grid.Column="0" Text="{Binding hora}"  TextColor="Black" FontAttributes="Bold" VerticalOptions="Start"/>
+                            <!-- Vertical Line-->
+                            <BoxView Grid.Row="1" Grid.Column="0" WidthRequest="4" Color="CadetBlue" HeightRequest="120" Margin="25,0,50,0" />
+                            <!-- Card -->
+                            <Frame Grid.Row="0" Grid.RowSpan="2"  Grid.Column="1" CornerRadius="25" HasShadow="False" Margin="5,0,30,60" BorderColor="#109dfa">
+                                <StackLayout>
+
+                                    <Label Text="{Binding sexo}" TextColor="Black" FontSize="18"/>
+                                    <Label Text="{Binding  nombre}" FontAttributes="Bold" TextColor="Black" FontSize="18"/>
+                                    <Label Text="{Binding situacion}" TextColor="Black" FontSize="18"/>
+
+                                    <Button x:Name="BtnCancelar" Text=" " FontSize="10" BackgroundColor="#109dfa" TextColor="White" CornerRadius="40"  HeightRequest="37" />
+
+                                </StackLayout>
+                            </Frame>
+
+
+
+                        </Grid>
+
+
+                    </DataTemplate>
+
+
+                </CollectionView.ItemTemplate>
+
+            </CollectionView>
+
+        </Grid>
+
+    </ContentPage.Content>
+
+</ContentPage>

@@ -1,0 +1,626 @@
+C:\Users\mange\source\repos\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\mange\source\repos\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\mange\source\repos\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Principal.xaml.g.cs
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Menu.xaml.g.cs
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\mange\source\repos\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Menu.xaml.g.cs
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Principal.xaml.g.cs
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\DeJes\Music\Final\Nueva carpeta\AppLot\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\mange\Desktop\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\mange\Desktop\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\mange\Desktop\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Menu.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Principal.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Perfil.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Citas.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\misa_\Desktop\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Citas.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Menu.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Perfil.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Principal.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\mange\Desktop\1\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\mange\Desktop\1\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\mange\Desktop\1\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Citas.xaml.g.cs
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Menu.xaml.g.cs
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Perfil.xaml.g.cs
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Principal.xaml.g.cs
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\mange\Desktop\1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Agendar.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Agendar.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Agendar.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Administrador.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminIniciarSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminIniciarSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Administrador.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Agendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Citas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Menu.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Perfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Principal.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version 1.1\AppLot\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\Users\mange\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminIniciarSesion.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Administrador.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.3\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\LOTOTRES\hola\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\LOTOTRES\hola\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\LOTOTRES\hola\AppLot\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version 1.4\AppLot\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\LOTOTRES\hola\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\LOTOTRES\hola\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\LOTOTRES\hola\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioConfig.xaml.g.cs
+C:\LOTOTRES\hola\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\mange\Desktop\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\mange\Desktop\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioConfig.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorRegistro.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorRegistro.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioConfig.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\LOTOTRES\hola\VERION 2\AppLot1.1\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorRegistro.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioConfig.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\misa_\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorRegistro.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioConfig.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version1.9\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorConfig.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorConfig.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorRegistro.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioConfig.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorConfig.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorRegistro.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioConfig.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version 1.10\AppLot1.1\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorActividad.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorConfig.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorRegistro.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioConfig.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\APPLOT1.1\4\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\APPLOT1.1\4\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\APPLOT1.1\4\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\APPLOT1.1\4\AppLot1.1\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\APPLOT1.1\5\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\APPLOT1.1\5\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\APPLOT1.1\5\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorActividad.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorConfig.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorRegistro.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioConfig.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\APPLOT1.1\5\AppLot1.1\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.deps.json
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\bin\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.AssemblyReference.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Admin.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AdminPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\AppPrincipal.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Informacion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Instructor.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorActividad.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorConfig.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorRegistro.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\MenuSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Olv_contra.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Registro.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\Usuario.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioAgendar.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioCitas.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioConfig.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioInicioSesion.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\UsuarioPerfil.xaml.g.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfoInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.AssemblyInfo.cs
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.csproj.CoreCompileInputs.cache
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\refint\AppLot.dll
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\AppLot.pdb
+C:\Users\misa_\Desktop\LotoTr3s\version 1.12\AppLot1.1\AppLot\obj\Debug\netstandard2.0\ref\AppLot.dll
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorActividad.xaml.g.cs
+C:\Users\mange\Desktop\AppLot1.1\AppLot\obj\Debug\netstandard2.0\Vistas\InstructorConfig.xaml.g.cs

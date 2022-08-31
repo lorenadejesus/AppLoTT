@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLot.Vistas.Olv_contra" BackgroundColor="LightGray">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout>
+
+                    <Frame HeightRequest="200" BackgroundColor="DarkGray" Padding="5" Margin="0">
+
+                        <Image Source="https://www.lototres.org/img/IMG-20180608-WA0033%20(1).png" Aspect="AspectFill" Margin="0"/>
+
+                    </Frame>
+                </StackLayout>
+
+                <Frame BackgroundColor="White" HeightRequest="480" HasShadow="True" Padding="0" Margin="30,-30,30,20">
+                   
+                    <StackLayout>
+                        
+                        <StackLayout>
+                            <Image Source="ar.png" Margin="-50" HeightRequest="{OnPlatform iOS=60,Android=120}" WidthRequest="{OnPlatform iOS=60,Android=0}"  />
+                        </StackLayout>
+                              
+                        <Label Text="¿Has olvidado tu contraseña?" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" FlexLayout.Basis="80"
+                               HorizontalTextAlignment="Center" TextColor="Black" Margin="25,50,25,10"/>
+                
+
+                        <Label Text="{Binding StringFormat='&quot;Escribe el correo electrónico que usaste para registrarte. Te enviaremos un correo electronico.&quot;'}" FontSize="15" FontAttributes="Italic,Bold" 
+                               HorizontalTextAlignment="Start" TextColor="Black" FlexLayout.AlignSelf="Center" FlexLayout.Basis="55" Margin="30,0"/> 
+                        
+                        <Frame BackgroundColor="#EFEFEF" HasShadow="{OnPlatform Android=true,iOS=false}" Padding="{OnPlatform Android=6,iOS=0}" CornerRadius="{OnPlatform Android=10}"
+                               Margin="35,10,35,10">
+
+                            <Entry Placeholder="Correo Electrónico" Keyboard="Email" x:Name="txtOlvC" PlaceholderColor="DarkGray" FontSize="14"
+                                   TextColor="Black" FontAttributes="None" HorizontalOptions="FillAndExpand" Margin="5,0,5,0" />
+                        </Frame>
+
+                        <Button x:Name="btnRest"  FontAttributes="Bold" BackgroundColor="#109dfa" TextColor="White" CornerRadius="30"
+                                FlexLayout.Basis="40" Text="Enviar" FlexLayout.AlignSelf="auto" Margin="15"/>
+                        
+                        <Button x:Name="btnVol"  FontAttributes="Bold" BackgroundColor="#109dfa" TextColor="White" CornerRadius="30"
+                                FlexLayout.Basis="40" Text="Cancelar"  FlexLayout.AlignSelf="start" Margin="15" HorizontalOptions="Start"/>
+                        
+                    </StackLayout>
+                </Frame>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

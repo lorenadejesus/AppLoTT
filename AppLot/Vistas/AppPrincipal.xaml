@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLot.Vistas.AppPrincipal" BackgroundColor="LightGray">
+    
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout  >
+            <Frame HeightRequest="180" BackgroundColor="DarkGray" Padding="5" Margin="0">
+
+                <Image Source="https://www.lototres.org/img/IMG-20180608-WA0033%20(1).png" Aspect="AspectFill" Margin="0"/>
+
+            </Frame>
+            <Frame  BackgroundColor="White" HeightRequest="500" HasShadow="True" Padding="0" Margin="30,-30,30,20">
+
+                <StackLayout>
+
+
+                    <StackLayout Margin="5">
+                        <Label Text="'&quot;Bienvenido a la aplicacion para la gestión de citas de la Fundación LotoTres A.C.'&quot;" TextColor="black" FontSize="20"
+                               HorizontalOptions="CenterAndExpand" FontAttributes="Bold,Italic" HorizontalTextAlignment="Center" />
+
+                    </StackLayout>
+
+                    <StackLayout Padding="0" Margin="15,10">
+                        <StackLayout Padding="0" Margin="20,0,10,50" HorizontalOptions="FillAndExpand">
+
+                            <StackLayout>
+                                <Frame Margin="20" BackgroundColor="Transparent" BorderColor="DarkGray" 
+                                   Padding="5" HorizontalOptions="FillAndExpand" CornerRadius="50">
+
+                                    <Button ImageSource="iniciosesion.png" Text="Iniciar Sesión" HeightRequest="70"
+                                        x:Name="BtnIniciarSesion" BackgroundColor="#109dfa" TextColor="White" CornerRadius="50" />
+
+                                </Frame>
+                            </StackLayout>
+
+                            <StackLayout>
+                                <Frame Margin="20" BackgroundColor="Transparent" BorderColor="DarkGray" HeightRequest="70"
+                                   Padding="5" HorizontalOptions="FillAndExpand" CornerRadius="50">
+
+                                    <Button ImageSource="registrar.png"  Text="Registrarse" x:Name="BtnRegistrarse" BackgroundColor="#109dfa" 
+                                        TextColor="White" CornerRadius="50"/>
+
+                                </Frame>
+                            </StackLayout>
+
+                            <StackLayout>
+                                <Frame Margin="17" BackgroundColor="Transparent" BorderColor="DarkGray" HeightRequest="70"
+                                   Padding="5" HorizontalOptions="FillAndExpand" CornerRadius="50">
+
+                                    <Button ImageSource="info.png" Text="Información" x:Name="BtnInfo" 
+                                            BackgroundColor="#109dfa" TextColor="White" CornerRadius="50"/>
+
+                                </Frame>
+
+                            </StackLayout>
+
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

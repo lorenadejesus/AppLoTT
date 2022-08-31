@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLot.Vistas.AdminPerfil">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout BackgroundColor="White">
+            <StackLayout BackgroundColor="White" Margin="30">
+                <Label Text="Mi Perfil" FontSize="30"  HorizontalOptions="Center" FlexLayout.Basis="60"
+                    HorizontalTextAlignment="Center" TextColor="Black" 
+                />
+
+                <StackLayout Margin="40">
+                    <Button x:Name="BtnConfiguracion" Text="Ajustes" BackgroundColor="#109dfa" TextColor="White" CornerRadius="30"/>
+                     <Button x:Name="BtnRegistrarInstru" Text="Registrar Instructor" BackgroundColor="#109dfa" TextColor="White" CornerRadius="30"/>
+
+                    </StackLayout>
+                    <Button x:Name="BtnCerrar" Text="Cerrar Sesión" BackgroundColor="#109dfa" TextColor="White" CornerRadius="30"/>
+                
+                </StackLayout>
+
+
+            <Frame BackgroundColor="#109dfa" Padding="1" Margin="10"
+                   BorderColor="#109dfa" CornerRadius="40" HasShadow="True"
+                   HorizontalOptions="Center" VerticalOptions="EndAndExpand">
+
+                <StackLayout BackgroundColor="#109dfa" Orientation="Horizontal"
+                             HorizontalOptions="FillAndExpand">
+                    <Button x:Name="BtnHome" Text="Home" BackgroundColor="#109dfa" TextColor="White" CornerRadius="30"/>
+                    <Button x:Name="BtnAgendar" Text="Agendar" BackgroundColor="#109dfa" TextColor="White" CornerRadius="30"/>
+                    <Button x:Name="BtnCitas" Text="Citas" BackgroundColor="#109dfa" TextColor="White" CornerRadius="30"/>
+                
+
+
+                </StackLayout>
+            </Frame>
+
+
+
+
+
+
+
+
+
+
+
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

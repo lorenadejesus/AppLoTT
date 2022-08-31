@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLot.Vistas.MenuSesion" BackgroundColor="LightGray">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout  >
+            <Frame HeightRequest="180" BackgroundColor="DarkGray" Padding="5" Margin="0">
+
+                <Image Source="https://www.lototres.org/img/IMG-20180608-WA0033%20(1).png" Aspect="AspectFill" Margin="0"/>
+
+            </Frame>
+            <Frame  BackgroundColor="White" HeightRequest="500" HasShadow="True" Padding="0" Margin="30,-30,30,20">
+
+                <StackLayout>
+
+
+                    <StackLayout Margin="5" Padding="30">
+                        <Label Text="Como quieres iniciar sesión:" TextColor="black" FontSize="20"
+                               HorizontalOptions="CenterAndExpand" FontAttributes="Bold,Italic" HorizontalTextAlignment="Center" />
+
+                    </StackLayout>
+                    
+                    
+                    <StackLayout Margin="0,5" Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+
+
+                        <Frame Margin="30,0" BackgroundColor="Transparent" BorderColor="DarkGray" HeightRequest="70" WidthRequest="70" 
+                                   Padding="5" HorizontalOptions="Center" CornerRadius="50">
+
+                            <Button ImageSource="usuario.png" x:Name="BtnUsuario" 
+                                            BackgroundColor="#fff" TextColor="White" CornerRadius="50"   Margin="0"/>
+
+                        </Frame>
+                        
+
+                        <Frame Margin="30,0" BackgroundColor="Transparent" BorderColor="DarkGray" HeightRequest="70" WidthRequest="70" 
+                                   Padding="5" HorizontalOptions="Center" CornerRadius="50">
+
+                            <Button ImageSource="instructor.png" x:Name="BtnInstructor" 
+                                            BackgroundColor="#fff" TextColor="White" CornerRadius="50"/>
+
+                        </Frame>
+                        
+                        
+
+                    </StackLayout >
+
+                    <StackLayout Padding="0" Margin="0,5" HorizontalOptions="Center" Orientation="Horizontal">
+
+                        <Frame Margin="30,0" BackgroundColor="Transparent"  
+                                   Padding="5" HorizontalOptions="Center" CornerRadius="50">
+
+                            <Label Text="Usuario" TextColor="Black" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="20" ></Label>
+                        </Frame>
+                       
+                        <Frame Margin="20,0" BackgroundColor="Transparent"
+                                   Padding="5" HorizontalOptions="Center" CornerRadius="50">
+
+                            <Label Text="Instructor" TextColor="Black" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="20"></Label>
+
+                        </Frame>
+                    </StackLayout>
+
+                    <StackLayout Padding="0" Margin="-3">
+                        <StackLayout Padding="0" Margin="20,0,10,50" HorizontalOptions="FillAndExpand">
+
+                            <Frame Margin="10" BackgroundColor="Transparent" HeightRequest="70" WidthRequest="70" BorderColor="DarkGray"
+                                   Padding="5" HorizontalOptions="Center" CornerRadius="50">
+
+                                <Button ImageSource="admin.png" x:Name="BtnAdministrador" 
+                                            BackgroundColor="#109dfa" TextColor="White" CornerRadius="50"/>
+
+                            </Frame>
+                            <Label Text="Administrador" TextColor="Black" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="20" Margin="-6"></Label>
+
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

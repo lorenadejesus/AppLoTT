@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLot.Vistas.InstructorAgendar">
+    <ContentPage.Content>
+        <StackLayout>
+            <ScrollView>
+                <StackLayout BackgroundColor="White">
+                    <Label Text="Agendar cita" FontSize="26"  HorizontalOptions="Center" FlexLayout.Basis="60"
+                    HorizontalTextAlignment="Center" TextColor="Black" 
+                />
+
+
+                    <StackLayout Margin="20">
+
+                        <Label
+                    Text="Nombre"
+                    FontSize="{OnPlatform Android=13}"
+                    TextColor="Black"
+                    Padding="5"
+                />
+
+                        <Frame
+                    HasShadow="{OnPlatform Android=true,iOS=false}"
+                    Padding="{OnPlatform Android=6,iOS=0}"
+                    CornerRadius="{OnPlatform Android=7}">
+
+                            <Entry
+                        Placeholder="Ej. Juan Goméz"
+                        PlaceholderColor="DarkGray"
+                                x:Name="nombre"
+                        TextColor="Black"
+                        Keyboard="Text"
+                        MaxLength="25"
+                        FontSize="{OnPlatform Android=15,iOS=16}"
+                        Text="{Binding EmailTxt, Mode=TwoWay}"
+                        IsEnabled="{Binding IsEnabledTxt}"
+                    />
+                        </Frame>
+
+
+                        <Label></Label>
+                        <Label
+                    Text="Sexo"
+                    FontSize="{OnPlatform Android=13}"
+                    TextColor="Black"
+                    Padding="5"
+                />
+
+                        <Frame
+                    HasShadow="{OnPlatform Android=true,iOS=false}"
+                    Padding="{OnPlatform Android=6,iOS=0}"
+                    CornerRadius="{OnPlatform Android=7}">
+
+                            <Entry
+                        Placeholder="Ej. Hombre o Mujer "
+                        PlaceholderColor="DarkGray"
+                                x:Name="sexo"
+                        TextColor="Black"
+                        Keyboard="Text"
+                        MaxLength="25"
+                        FontSize="{OnPlatform Android=15,iOS=16}"
+                        Text="{Binding EmailTxt, Mode=TwoWay}"
+                        IsEnabled="{Binding IsEnabledTxt}"
+                    />
+                        </Frame>
+
+                        <Label></Label>
+                        <Label
+                    Text="Codigo Postal"
+                    FontSize="{OnPlatform Android=13}"
+                    TextColor="Black"
+                    Padding="5"
+                />
+
+                        <Frame
+                    HasShadow="{OnPlatform Android=true,iOS=false}"
+                    Padding="{OnPlatform Android=6,iOS=0}"
+                    CornerRadius="{OnPlatform Android=7}">
+
+                            <Entry
+                        Placeholder="Ej. 55763"
+                        PlaceholderColor="DarkGray"
+                                x:Name="codigoPostal"
+                        TextColor="Black"
+                        Keyboard="Numeric"
+                        MaxLength="5"
+                        FontSize="{OnPlatform Android=15,iOS=16}"
+                        Text="{Binding EmailTxt, Mode=TwoWay}"
+                        IsEnabled="{Binding IsEnabledTxt}"
+                    />
+                        </Frame>
+
+                        <Label></Label>
+                        <Label
+                    Text="Edad"
+                    FontSize="{OnPlatform Android=13}"
+                    TextColor="Black"
+                    Padding="5"
+                />
+
+                        <Frame
+                    HasShadow="{OnPlatform Android=true,iOS=false}"
+                    Padding="{OnPlatform Android=6,iOS=0}"
+                    CornerRadius="{OnPlatform Android=7}">
+
+                            <Entry
+                        Placeholder="Ej. +18"
+                        PlaceholderColor="DarkGray"
+                                x:Name="edad"
+                                
+                                
+                        TextColor="Black"
+                        Keyboard="Numeric"
+                        MaxLength="2"
+                        FontSize="{OnPlatform Android=15,iOS=16}"
+                        Text="{Binding EmailTxt, Mode=TwoWay}"
+                        IsEnabled="{Binding IsEnabledTxt}"
+                    />
+                        </Frame>
+
+
+                        <Label></Label>
+
+
+
+
+
+                        <Label
+                    Text="Fecha"
+                    FontSize="{OnPlatform Android=13}"
+                    TextColor="Black"
+                    Padding="5"
+                    />
+                        <Frame
+                    HasShadow="{OnPlatform Android=true,iOS=false}"
+                    Padding="{OnPlatform Android=6,iOS=0}"
+                    CornerRadius="{OnPlatform Android=7}">
+
+                            <DatePicker  x:Name="fecha" Format="D" >
+                            </DatePicker>
+
+                        </Frame>
+
+
+
+                        <Label
+                    Text="Hora"
+                    FontSize="{OnPlatform Android=13}"
+                    TextColor="Black"
+                    Padding="5"
+                    />
+                        <Frame
+                    HasShadow="{OnPlatform Android=true,iOS=false}"
+                    Padding="{OnPlatform Android=6,iOS=6}"
+                    CornerRadius="{OnPlatform Android=7}">
+
+
+                            <TimePicker  TextColor="Black" x:Name="hora"    
+                                         >
+                            </TimePicker>
+                        </Frame>
+
+                        <Label></Label>
+
+                        <Label
+                    Text="Situación"
+                    FontSize="{OnPlatform Android=13}"
+                    TextColor="Black"
+                    Padding="5"
+                    />
+                        <Frame
+                    HasShadow="{OnPlatform Android=true,iOS=false}"
+                    Padding="{OnPlatform Android=6,iOS=0}"
+                    CornerRadius="{OnPlatform Android=7}">
+
+                            <Entry
+                        Placeholder="Ej. Cita con el fisico terapeutico"
+                        PlaceholderColor="DarkGray"
+                                x:Name="situacion"
+                                Keyboard="Text"
+                        TextColor="Black"
+                        MaxLength="25"
+                        FontSize="{OnPlatform Android=15,iOS=16}"
+                        Text="{Binding EmailTxt, Mode=TwoWay}"
+                        IsEnabled="{Binding IsEnabledTxt}"
+                    />
+                        </Frame>
+
+                    </StackLayout>
+
+                    <StackLayout >
+                        <Button x:Name="btnAgendarCita" Text="Agendar" BackgroundColor="#109dfa" TextColor="White" CornerRadius="30" Margin="31"  />
+                    </StackLayout>
+
+                </StackLayout>
+            </ScrollView>
+
+            <Frame BackgroundColor="#109dfa" Padding="1" Margin="10"
+                   BorderColor="#109dfa" CornerRadius="40" HasShadow="True"
+                   HorizontalOptions="Center" VerticalOptions="EndAndExpand">
+
+                <StackLayout BackgroundColor="#109dfa" Orientation="Horizontal"
+                             HorizontalOptions="FillAndExpand">
+
+                    <Button x:Name="BtnHomeAd" Text="Home" BackgroundColor="#109dfa" TextColor="White" CornerRadius="30"/>
+                    <Button x:Name="BtnVerC" Text="Ver Citas" BackgroundColor="#109dfa" TextColor="White" CornerRadius="30"/>
+
+
+
+
+
+                </StackLayout>
+            </Frame>
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

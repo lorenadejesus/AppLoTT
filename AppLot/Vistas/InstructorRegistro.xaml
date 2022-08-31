@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLot.Vistas.InstructorRegistro">
+    <ContentPage.Content>
+
+        <ScrollView>
+            <FlexLayout   Direction="Column" Margin="25" AlignItems="Stretch">
+
+                <Image
+                    Grid.Row="1"
+                    Source="ar.png"
+                    HeightRequest="{OnPlatform iOS=90,Android=70}"
+                    WidthRequest="{OnPlatform iOS=90,Android=0}"
+                />
+                <StackLayout Margin=" 0,30">
+                    <Frame HasShadow="True" CornerRadius="20" Margin="0,0,0,10">
+                        <StackLayout Margin="0">
+
+                            <Label
+                                Text="Registrarse"
+                                TextColor="Black" 
+                                Font="Montserrat-Medium.otf"
+                                FontSize="{OnPlatform Android=20,iOS=23}"
+                                WidthRequest="300"
+                                Padding="5"
+                            />
+
+                            <Label
+                                Text="Correo Electrónico:"
+                                FontSize="{OnPlatform Android=13}"
+                                TextColor="Black"
+                                Padding="5"
+                            />
+
+                            <Frame
+                                HasShadow="{OnPlatform Android=true,iOS=false}"
+                                Padding="{OnPlatform Android=6,iOS=0}"
+                                CornerRadius="{OnPlatform Android=7}">
+
+                                <Entry
+                                    Placeholder="lototres@gmail.com"
+                                    PlaceholderColor="DarkGray"
+                                    x:Name="correoElectronico"
+                                    TextColor="Black"
+                                    Keyboard="Email"
+                                    FontSize="{OnPlatform Android=15,iOS=16}"
+                                    Text="{Binding EmailTxt, Mode=TwoWay}"
+                                    IsEnabled="{Binding IsEnabledTxt}"
+                                />
+
+                            </Frame>
+
+                            <Label
+                                Text="Contraseña:"
+                                FontSize="{OnPlatform Android=13}"
+                                TextColor="Black"
+                                Padding="5"
+                            />
+
+                            <Frame
+                                HasShadow="{OnPlatform Android=true,iOS=false}"
+                                Padding="{OnPlatform Android=6,iOS=0}"
+                                CornerRadius="{OnPlatform Android=7}">
+
+                                <Entry
+                                    Placeholder="*********************"
+                                    PlaceholderColor="DarkGray"
+                                    x:Name="contrasena"
+                                    TextColor="Black"
+                                    Keyboard="Text"
+                                    FontSize="{OnPlatform Android=15,iOS=16}"
+                                    Text="{Binding EmailTxt, Mode=TwoWay}"
+                                    IsEnabled="{Binding IsEnabledTxt}"
+                                />
+                            </Frame>
+                        </StackLayout>
+                    </Frame>
+
+                    <Frame HasShadow="True" CornerRadius="20" Margin="0,0,0,10">
+                        <StackLayout Margin="0">
+                            <Label
+                                Text="Datos personales"
+                                TextColor="Black"    
+                                Font="Montserrat-Medium.otf"
+                                FontSize="{OnPlatform Android=20,iOS=23}"
+                                WidthRequest="300"
+                                Padding="5"
+                            />
+
+
+                            <Label
+                                Text="Nombre:"
+                                FontSize="{OnPlatform Android=13}"
+                                TextColor="Black"
+                                Padding="5"
+                            />
+
+                            <Frame
+                                HasShadow="{OnPlatform Android=true,iOS=false}"
+                                Padding="{OnPlatform Android=6,iOS=0}"
+                                CornerRadius="{OnPlatform Android=7}">
+
+                                <Entry
+                                    Placeholder=""
+                                    PlaceholderColor="DarkGray"
+                                     x:Name="nombre"
+                                    TextColor="Black"
+                                    Keyboard="Text"
+                                    FontSize="{OnPlatform Android=15,iOS=16}"
+                                    Text="{Binding EmailTxt, Mode=TwoWay}"
+                                    IsEnabled="{Binding IsEnabledTxt}"  
+                                />
+                            </Frame>
+
+                            <Label
+                                Text="Apellido Paterno:"
+                                FontSize="{OnPlatform Android=13}"
+                                TextColor="Black"
+                                Padding="5"
+                            />
+
+                            <Frame
+                                HasShadow="{OnPlatform Android=true,iOS=false}"
+                                Padding="{OnPlatform Android=6,iOS=0}"
+                                CornerRadius="{OnPlatform Android=7}">
+
+                                <Entry
+                                    Placeholder=""
+                                    PlaceholderColor="DarkGray"
+                                    x:Name="apellidoPA"
+                                    TextColor="Black"
+                                    Keyboard="Text"
+                                    FontSize="{OnPlatform Android=15,iOS=16}"
+                                    Text="{Binding EmailTxt, Mode=TwoWay}"
+                                    IsEnabled="{Binding IsEnabledTxt}"
+                                />
+                            </Frame>
+
+                            <Label
+                                Text="Apellido Materno:"
+                                FontSize="{OnPlatform Android=13}"
+                                TextColor="Black"
+                                Padding="5"
+                            />
+
+                            <Frame
+                                HasShadow="{OnPlatform Android=true,iOS=false}"
+                                Padding="{OnPlatform Android=6,iOS=0}"
+                                CornerRadius="{OnPlatform Android=7}">
+
+                                <Entry
+                                    Placeholder=""
+                                    PlaceholderColor="DarkGray"
+                                    x:Name="apellidoMA"
+                                    TextColor="Black"
+                                    Keyboard="Text"
+                                    FontSize="{OnPlatform Android=15,iOS=16}"
+                                    Text="{Binding EmailTxt, Mode=TwoWay}"
+                                    IsEnabled="{Binding IsEnabledTxt}"
+                                />
+                            </Frame>
+
+                            <Label
+                                Text="Edad:"
+                                
+                                FontSize="{OnPlatform Android=13}"
+                                TextColor="Black"
+                                Padding="5"
+                            />
+                            <Frame
+                                HasShadow="{OnPlatform Android=true,iOS=false}"
+                                Padding="{OnPlatform Android=6,iOS=0}"
+                                CornerRadius="{OnPlatform Android=7}">
+
+                                <Entry
+                                    Placeholder="18"
+                                    PlaceholderColor="DarkGray"
+                                    x:Name="edad"
+                                    TextColor="Black"
+                                    Keyboard="Numeric"
+                                    FontSize="{OnPlatform Android=15,iOS=16}"
+                                    Text="{Binding EmailTxt, Mode=TwoWay}"
+                                    IsEnabled="{Binding IsEnabledTxt}"
+                                />
+                            </Frame>
+                        </StackLayout>
+                    </Frame>
+
+                    <Frame HasShadow="True" CornerRadius="20" Margin="0,10,0,10">
+                        <StackLayout Margin="0">
+                            <Label
+                                Text="Dirección"
+                                TextColor="Black" 
+                                Font="Montserrat-Medium.otf"
+                                FontSize="{OnPlatform Android=20,iOS=23}"
+                                WidthRequest="300"
+                                Padding="5"
+                            />
+
+                            <Label
+                                Text="Calle:"   
+                                FontSize="{OnPlatform Android=13}"
+                                TextColor="Black"
+                                Padding="5"
+                            />
+
+                            <Frame
+                                HasShadow="{OnPlatform Android=true,iOS=false}"
+                                Padding="{OnPlatform Android=6,iOS=0}"
+                                CornerRadius="{OnPlatform Android=7}">
+
+                                <Entry
+                                    Placeholder=""
+                                    PlaceholderColor="DarkGray"
+                                    x:Name="calle"
+                                    TextColor="Black"
+                                    Keyboard="Text"
+                                    FontSize="{OnPlatform Android=15,iOS=16}"
+                                    Text="{Binding EmailTxt, Mode=TwoWay}"
+                                    IsEnabled="{Binding IsEnabledTxt}"
+                                />
+                            </Frame>
+
+                            <Label
+                                Text="Num. Interior:"
+                                FontSize="{OnPlatform Android=13}"
+                                TextColor="Black"
+                                Padding="5"
+                            />
+                            <Frame
+                                HasShadow="{OnPlatform Android=true,iOS=false}"
+                                Padding="{OnPlatform Android=6,iOS=0}"
+                                CornerRadius="{OnPlatform Android=7}">
+
+                                <Entry
+                                    Placeholder=""
+                                    PlaceholderColor="Black"
+                                    Keyboard="Text"
+                                    TextColor="Black"
+                                    x:Name="numInterior"
+                                    FontSize="{OnPlatform Android=15,iOS=16}"
+                                    Text="{Binding EmailTxt, Mode=TwoWay}"
+                                    IsEnabled="{Binding IsEnabledTxt}"
+                                />
+                            </Frame>
+
+                            <Label
+                                Text="Num. Exterior:"                   
+                                FontSize="{OnPlatform Android=13}"
+                                TextColor="Black"
+                                Padding="5"
+                            />
+
+                            <Frame
+                                HasShadow="{OnPlatform Android=true,iOS=false}"
+                                Padding="{OnPlatform Android=6,iOS=0}"
+                                CornerRadius="{OnPlatform Android=7}">
+
+                                <Entry
+                                    Placeholder=""
+                                    PlaceholderColor="DarkGray"
+                                    x:Name="numExterior"                           
+                                    TextColor="Black"
+                                    Keyboard="Text"
+                                    FontSize="{OnPlatform Android=15,iOS=16}"
+                                    Text="{Binding EmailTxt, Mode=TwoWay}"
+                                    IsEnabled="{Binding IsEnabledTxt}"
+                                />
+                            </Frame>
+
+                            <Label
+                                Text="Colonia:"
+                               
+                                FontSize="{OnPlatform Android=13}"
+                                TextColor="Black"
+                                Padding="5"
+                            />
+                            <Frame
+                                HasShadow="{OnPlatform Android=true,iOS=false}"
+                                Padding="{OnPlatform Android=6,iOS=0}"
+                                CornerRadius="{OnPlatform Android=7}">
+
+                                <Entry
+                                    Placeholder=""
+                                    PlaceholderColor="DarkGray"
+                                     x:Name="colonia"
+                                    TextColor="Black"
+                                    Keyboard="Text"
+                                    FontSize="{OnPlatform Android=15,iOS=16}"
+                                    Text="{Binding EmailTxt, Mode=TwoWay}"
+                                    IsEnabled="{Binding IsEnabledTxt}"
+                                />
+                            </Frame>
+
+                            <Label
+                                Text="Municipio:"
+                                FontSize="{OnPlatform Android=13}"
+                                TextColor="Black"
+                                Padding="5"
+                            />
+
+                            <Frame
+                                HasShadow="{OnPlatform Android=true,iOS=false}"
+                                Padding="{OnPlatform Android=6,iOS=0}"
+                                CornerRadius="{OnPlatform Android=7}">
+
+                                <Entry
+                                    Placeholder=""
+                                    PlaceholderColor="DarkGray"
+                                    x:Name="municipio"
+                                    TextColor="Black"
+                                    Keyboard="Text"
+                                    FontSize="{OnPlatform Android=15,iOS=16}"
+                                   
+                                />
+                            </Frame>
+
+                            <Label
+                                Text="Código Postal:"
+                                FontSize="{OnPlatform Android=13}"
+                                TextColor="Black"
+                                Padding="5"
+                            />
+
+                            <Frame
+                                HasShadow="{OnPlatform Android=true,iOS=false}"
+                                Padding="{OnPlatform Android=6,iOS=0}"
+                                CornerRadius="{OnPlatform Android=7}">
+
+                                <Entry
+                                    Placeholder=""
+                                    PlaceholderColor="DarkGray"
+                                     x:Name="codigoPostal"
+                                    TextColor="Black"
+                                    Keyboard="Text"
+                                    FontSize="{OnPlatform Android=15,iOS=16}"
+                                    Text="{Binding EmailTxt, Mode=TwoWay}"
+                                    IsEnabled="{Binding IsEnabledTxt}"  
+                                />
+                            </Frame>
+
+                        </StackLayout>
+                    </Frame>
+
+
+                    <Button Text="REGISTRAR" FontAttributes="Bold" x:Name="btnGuardar"  FontSize="Small" HorizontalOptions="Center" BackgroundColor="#109dfa" TextColor="White" CornerRadius="30"/>
+
+                </StackLayout>
+            </FlexLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
